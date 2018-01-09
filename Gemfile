@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
+source 'https://gems.ruby-china.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
@@ -45,6 +46,3 @@ group :development do
   gem 'spring'
 end
 
-gem 'themeable', path: '../themeable'
-gem 'theme_color_admin', path: '../theme_color_admin'
-gem 'slim-rails'
