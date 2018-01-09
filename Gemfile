@@ -47,4 +47,4 @@ end
 
 gem 'themeable', path: '../themeable'
 gem 'theme_color_admin', path: '../theme_color_admin'
-
+gem 'slim-rails'
